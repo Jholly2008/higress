@@ -157,7 +157,7 @@ git config --get user.name
 git config --get user.email
 ```
 
-* when submitting pr, please add a brief description of the current changes to the X.X.X.md file under the 'changes/' folder
+* no additional changelog file is required for regular PRs; release notes are generated automatically during the release workflow.
 
 
 In addition, in the code change part, we suggest that all contributors should read the [code style of Higress](#code-style).

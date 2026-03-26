@@ -157,7 +157,7 @@ git config --get user.name
 git config --get user.email
 ```
 
-* 提交pr时，请在'changes/'文件夹下的XXXmd文件中添加当前更改的简要说明
+* 常规 PR 无需额外在仓库中添加变更说明文件；发布说明会在发布流程中自动生成。
 
 
 另外，在代码变更部分，我们建议所有贡献者阅读Higress的 [代码风格](#代码风格)。
