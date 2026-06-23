@@ -5,7 +5,7 @@
 	shallow = true
 [submodule "istio/istio"]
 	path = istio/istio
-	url = https://github.com/higress-group/istio
+	url = https://github.com/Jholly2008/istio.git
 	branch = istio-1.27
 	shallow = true
 [submodule "istio/client-go"]
